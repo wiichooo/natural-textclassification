@@ -1,0 +1,27 @@
+{
+  "name": "natural-textclassification",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wiichooo/natual-textclassification.git"
+  },
+  "keywords": [
+    "natural",
+    "text",
+    "classification"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wiichooo/natual-textclassification/issues"
+  },
+  "homepage": "https://github.com/wiichooo/natual-textclassification#readme",
+  "dependencies": {
+    "natural": "^0.6.3"
+  }
+}
